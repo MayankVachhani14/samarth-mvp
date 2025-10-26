@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyarrow
+numpy
+matplotlib
+python-dotenv
+requests
+rapidfuzz
